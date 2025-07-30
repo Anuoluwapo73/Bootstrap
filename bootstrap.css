@@ -133,13 +133,15 @@ img {
     .menu h2 {
         font-size: 40px;
     }
+    .container {
+        width: 900px;
+    }
     .images {
         display: flex;
         flex-direction: column;
         gap: 20px;
     }
-    .images div {
-    }
+   
     .contact {
         display: flex;
         flex-direction: column;
