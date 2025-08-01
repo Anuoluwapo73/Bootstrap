@@ -188,6 +188,10 @@ img {
         height: 300px;
         padding-top: 5px;
     }
+    .images {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
     .button{
         margin-left: 350px;
     }
