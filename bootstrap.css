@@ -133,13 +133,11 @@ img {
     
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 768px) {
     .menu h2 {
         font-size: 40px;
     }
-    .container {
-        width: 900px;
-    }
+   
     .images {
         display: flex;
         flex-direction: column;
