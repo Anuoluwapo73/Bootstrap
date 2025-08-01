@@ -28,6 +28,10 @@
     align-items: center;
     gap: 20px;
     margin-bottom: 20px;
+     background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .heading1 h1 {
     font-size: 40px;
